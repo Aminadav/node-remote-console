@@ -1,0 +1,2020 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"get_vid",
+				"get_video_url_from_id"
+			],
+			[
+				"video",
+				"video_url"
+			],
+			[
+				"refre",
+				"refresh_token:ref"
+			],
+			[
+				"btn",
+				"btn_signIn"
+			],
+			[
+				"a",
+				"adwords"
+			],
+			[
+				"redire",
+				"redirect_uri:red"
+			],
+			[
+				"st",
+				"statment"
+			],
+			[
+				"getSitesListFrom",
+				"getSitesListFromAPI"
+			],
+			[
+				"getAc",
+				"getAccessTokenfromRefreshToken〔function〕"
+			],
+			[
+				"getAccessTokenfrom",
+				"getAccessTokenfromRefreshToken"
+			],
+			[
+				"gene",
+				"genereteUrl"
+			],
+			[
+				"serve",
+				"servervariables"
+			],
+			[
+				"conte",
+				"contentEditable"
+			],
+			[
+				"wi",
+				"widget"
+			],
+			[
+				"wid",
+				"widthSide"
+			],
+			[
+				"main_button_",
+				"main_button_document"
+			],
+			[
+				"main",
+				"main_button_document"
+			],
+			[
+				"shopif",
+				"shopifyOrder"
+			],
+			[
+				"shp",
+				"shopifyOrder"
+			],
+			[
+				"shop",
+				"shopifyOrder"
+			],
+			[
+				"pro",
+				"product"
+			],
+			[
+				"prod",
+				"product"
+			],
+			[
+				"email",
+				"email_to_receiver"
+			],
+			[
+				"email_to",
+				"email_to_shop"
+			],
+			[
+				"shopi",
+				"shopifyCart"
+			],
+			[
+				"email_to_",
+				"email_to_buyer"
+			],
+			[
+				"createS",
+				"createScript"
+			],
+			[
+				"crete",
+				"CreateWebHooks"
+			],
+			[
+				"dele",
+				"DeleteWebHooks"
+			],
+			[
+				"fill",
+				"fillShopFromDb"
+			],
+			[
+				"show",
+				"show_delivery"
+			],
+			[
+				"test",
+				"test_mode"
+			],
+			[
+				"update",
+				"updateFilesInEngine"
+			],
+			[
+				"var",
+				"variants"
+			],
+			[
+				"files",
+				"getFilesThatNeed"
+			],
+			[
+				"fillShfrom",
+				"fillShopFromEngine"
+			],
+			[
+				"is",
+				"is_mobile"
+			],
+			[
+				"addButtonTo",
+				"addButtonToProducts"
+			],
+			[
+				"bool_fi",
+				"bool_fillShopFromDb"
+			],
+			[
+				"getFilesThatNeed",
+				"getFilesThatNeed_end"
+			],
+			[
+				"fillShop",
+				"fillShopFromDb"
+			],
+			[
+				"fillSh",
+				"fillShopFromEngine_end"
+			],
+			[
+				"get_product_in_col",
+				"get_products_in_collection_by_id"
+			],
+			[
+				"quer",
+				"query"
+			],
+			[
+				"access_t",
+				"access_token"
+			],
+			[
+				"get_products_in",
+				"get_products_in_collection_by_name_one"
+			],
+			[
+				"collec",
+				"collections_array"
+			],
+			[
+				"get_produ",
+				"get_products_in_collection_by_name"
+			],
+			[
+				"get_pro",
+				"get_products_in_collection_by_name_one"
+			],
+			[
+				"even",
+				"events"
+			],
+			[
+				"birthda",
+				"birthdayDate_to_text"
+			],
+			[
+				"www",
+				"wwwGiftWizard"
+			],
+			[
+				"get_prod",
+				"get_products_one_page_from_shopify"
+			],
+			[
+				"arg",
+				"arguments"
+			],
+			[
+				"checkout",
+				"checkout_token"
+			],
+			[
+				"checkou",
+				"checkout_token"
+			],
+			[
+				"chang",
+				"changeProcessSend"
+			],
+			[
+				"proces",
+				"processSend"
+			],
+			[
+				"ref",
+				"referer"
+			],
+			[
+				"save",
+				"saveRow"
+			],
+			[
+				"send",
+				"send_admin"
+			],
+			[
+				"web",
+				"webhook"
+			],
+			[
+				"get_",
+				"get_cart_id"
+			],
+			[
+				"url",
+				"urlencoded"
+			],
+			[
+				"exte",
+				"externalLoaded"
+			],
+			[
+				"str",
+				"stringify"
+			],
+			[
+				"myTrea",
+				"myTreat"
+			],
+			[
+				"updateSi",
+				"updateSizeInterval"
+			],
+			[
+				"sting",
+				"stringify"
+			],
+			[
+				"this",
+				"this_shop"
+			],
+			[
+				"over",
+				"overlayX"
+			],
+			[
+				"auto",
+				"autoPosition"
+			],
+			[
+				"acess",
+				"access_token"
+			],
+			[
+				"app_",
+				"app_id"
+			],
+			[
+				"thiid",
+				"this_user_id"
+			],
+			[
+				"access",
+				"access_token"
+			],
+			[
+				"custom",
+				"custom_collection"
+			],
+			[
+				"acces",
+				"access_token"
+			],
+			[
+				"req",
+				"requestValidate"
+			],
+			[
+				"getO",
+				"getOauthUrl"
+			],
+			[
+				"buck",
+				"bucket_max"
+			],
+			[
+				"temp",
+				"temp_access_token"
+			],
+			[
+				"create",
+				"createScriptTag"
+			],
+			[
+				"showDialog",
+				"showDialogGetDetails  (function)"
+			],
+			[
+				"myt_btn",
+				"myt_btnChooseGift"
+			],
+			[
+				"myT",
+				"myTreatBanner"
+			],
+			[
+				"showDia",
+				"showDialogGiftList"
+			],
+			[
+				"showD",
+				"showDialogEvents"
+			],
+			[
+				"myt_btn_show",
+				"myt_btn_showEvents"
+			],
+			[
+				"my_eve",
+				"myt_events"
+			],
+			[
+				"faceb",
+				"facebookLoginConfirm"
+			],
+			[
+				"face",
+				"facebookLoginClick"
+			],
+			[
+				"myt",
+				"myt_toolbar_outer"
+			],
+			[
+				"mytr",
+				"mytreatbanner"
+			],
+			[
+				"jQueryb",
+				"jQueryBef"
+			],
+			[
+				"exec",
+				"execAndShow"
+			],
+			[
+				"dis",
+				"disableDialog"
+			],
+			[
+				"enable",
+				"enableJW"
+			],
+			[
+				"enabl",
+				"enableJWLoaded=true"
+			],
+			[
+				"dialog",
+				"dialogLoaded"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"func_sb",
+				"func_sbKeyDown"
+			],
+			[
+				"locl",
+				"localStorage"
+			],
+			[
+				"butt",
+				"buttons_colors"
+			],
+			[
+				"copyTe",
+				"copyTextToClipboard"
+			],
+			[
+				"jQue",
+				"jQueryThingsLoaded"
+			],
+			[
+				"loadj",
+				"loadjQueryThings"
+			],
+			[
+				"obj",
+				"obj_plugins"
+			],
+			[
+				"alread",
+				"alreadyRun"
+			],
+			[
+				"onAdd",
+				"onAddedPermissions"
+			],
+			[
+				"time",
+				"timeoutInterval"
+			],
+			[
+				"inner",
+				"innerHTML"
+			],
+			[
+				"editor",
+				"editorDocument"
+			],
+			[
+				"none",
+				"none"
+			],
+			[
+				"baseRec",
+				"baseRectDim"
+			],
+			[
+				"content",
+				"contentDocument"
+			],
+			[
+				"encode",
+				"encodeURIComponent"
+			],
+			[
+				"exten",
+				"extension"
+			],
+			[
+				"stora",
+				"storageSet"
+			],
+			[
+				"righ",
+				"rightButton"
+			],
+			[
+				"ism",
+				"isMinimize"
+			],
+			[
+				"clear",
+				"clearTimeout"
+			],
+			[
+				"getdi",
+				"getDistancePoint2Square"
+			],
+			[
+				"showSur",
+				"showSurveyHTML"
+			],
+			[
+				"currentSurvey",
+				"currentSurveyId"
+			],
+			[
+				"curr",
+				"currentSurvey"
+			],
+			[
+				"docum",
+				"document"
+			],
+			[
+				"oner",
+				"onerror"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": ".README",
+			"settings":
+			{
+				"buffer_size": 466,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app.js",
+			"settings":
+			{
+				"buffer_size": 185,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 58.0,
+		"last_filter": "addfo",
+		"selected_items":
+		[
+			[
+				"addfo",
+				"Project: Add Folder"
+			],
+			[
+				"snthtml",
+				"Set Syntax: HTML"
+			],
+			[
+				"renam",
+				"File: Rename"
+			],
+			[
+				"reane",
+				"File: Rename"
+			],
+			[
+				"add",
+				"Project: Add Folder"
+			],
+			[
+				"jshin",
+				"JSHint"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"rename",
+				"File: Rename"
+			],
+			[
+				"add fol",
+				"Project: Add Folder"
+			],
+			[
+				"jquer",
+				"Snippet: jquery"
+			],
+			[
+				"snip",
+				"Snippet: Prototype"
+			],
+			[
+				"snipp",
+				"Snippet: html"
+			],
+			[
+				"rean",
+				"File: Rename"
+			],
+			[
+				"ad ",
+				"Project: Add Folder"
+			],
+			[
+				"add f",
+				"Project: Add Folder"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"add fo",
+				"Project: Add Folder"
+			],
+			[
+				"sftp",
+				"SFTP: Edit Server…"
+			],
+			[
+				"word",
+				"Word Wrap: Toggle"
+			],
+			[
+				"delete",
+				"File: Delete"
+			],
+			[
+				"add ",
+				"Project: Add Folder"
+			],
+			[
+				"move",
+				"File: Move"
+			],
+			[
+				"dow",
+				"SFTP: Download File"
+			],
+			[
+				"down",
+				"SFTP: Download File"
+			],
+			[
+				"download",
+				"SFTP: Download File"
+			],
+			[
+				"PACKAGE",
+				"Package Control: Install Package"
+			],
+			[
+				"ENABL",
+				"Package Control: Enable Package"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"disab",
+				"Package Control: Disable Package"
+			],
+			[
+				"rena",
+				"File: Rename"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"enabl",
+				"Package Control: Enable Package"
+			],
+			[
+				"uplo",
+				"SFTP: Upload Open Files"
+			],
+			[
+				"ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"fetch",
+				"Fetch: File"
+			],
+			[
+				"beau",
+				"HTMLBeautify"
+			],
+			[
+				"ren",
+				"File: Rename"
+			],
+			[
+				"lower",
+				"Convert Case: Lower Case"
+			],
+			[
+				"enab",
+				"Package Control: Enable Package"
+			],
+			[
+				"dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"linter",
+				"Preferences: SublimeLinter Settings – Default"
+			],
+			[
+				"packa",
+				"Preferences: Browse Packages"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"sublimlint",
+				"Preferences: SublimeLint – Default"
+			],
+			[
+				"hint",
+				"JSHint Inline"
+			],
+			[
+				"jslint:",
+				"JSLint: Show JSLint Result"
+			],
+			[
+				"lint",
+				"JSLint: Run JSLint"
+			],
+			[
+				"subli",
+				"SublimeLinter: Extract Annotations"
+			],
+			[
+				"remove ",
+				"Package Control: Remove Package"
+			],
+			[
+				"ackage",
+				"Package Control: Remove Package"
+			],
+			[
+				"dele",
+				"File: Delete"
+			],
+			[
+				"upda",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"repe",
+				"DocBlockr: Reparse comment block"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"sync",
+				"SFTP: Sync Local -> Remote…"
+			],
+			[
+				"move ",
+				"File: Move"
+			],
+			[
+				"up",
+				"SFTP: Upload File"
+			],
+			[
+				"upload",
+				"SFTP: Upload File"
+			],
+			[
+				"uload",
+				"SFTP: Upload File"
+			],
+			[
+				"http",
+				"Snippet: httprequest"
+			],
+			[
+				"htt",
+				"HTTP Requester"
+			],
+			[
+				"disabl",
+				"Package Control: Disable Package"
+			],
+			[
+				"format",
+				"Format: Javascript"
+			],
+			[
+				"new",
+				"Tasks: New document"
+			],
+			[
+				"fiel ",
+				"File: Delete"
+			],
+			[
+				"copyp",
+				"File: Copy Path"
+			],
+			[
+				"package inst",
+				"Package Control: Install Package"
+			],
+			[
+				"package insta",
+				"Package Control: Install Package"
+			],
+			[
+				"document",
+				"Goto Documentation"
+			],
+			[
+				"close ",
+				"Project: Close"
+			],
+			[
+				"remote",
+				"SFTP: Browse Remote…"
+			],
+			[
+				"brow",
+				"SFTP: Browse Remote…"
+			],
+			[
+				"browser",
+				"SFTP: Browse Server…"
+			],
+			[
+				"ftp",
+				"FTPSync: Browse"
+			],
+			[
+				"mo",
+				"File: Move"
+			],
+			[
+				"examp",
+				"Snippet: snippestExample"
+			],
+			[
+				"bro",
+				"SFTP: Browse Server…"
+			],
+			[
+				"sftp:",
+				"SFTP: Browse Server…"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Code Folding: Fold Tag Attributes"
+			]
+		],
+		"width": 416.0
+	},
+	"console":
+	{
+		"height": 398.0,
+		"history":
+		[
+			"npm",
+			"?",
+			"help",
+			"launch",
+			"cmd"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/git/node-remote-console"
+	],
+	"file_history":
+	[
+		"/C/git/remarketing/rg/banners.css",
+		"/C/git/remarketing/rg/rg_blank.html",
+		"/C/git/remarketing/rg/buckets_script.js",
+		"/C/git/remarketing/rg/analytics.js",
+		"/C/git/remarketing/rg/analytic.js",
+		"/C/git/remarketing/rg/dashboard.css",
+		"/C/git/remarketing/rg/script.js",
+		"/C/Drive/software/autohotkeys/runApks/appshortcuts.ahk",
+		"/C/Drive/Remarketing/site/api/create/lib/select2.css",
+		"/C/Drive/Remarketing/site/api/create/lib/select2.js",
+		"/C/Drive/Remarketing/site/api/oauth_redirect.jss",
+		"/C/Drive/Remarketing/site/api/connection.js",
+		"/C/Drive/Remarketing/site/api/create/../oauth_redirect.jss",
+		"/C/Drive/Remarketing/site/api/create/test/test.js",
+		"/C/Drive/software/sublime3/Data/Packages/User/jquery.sublime-snippet",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/books_u.csv",
+		"/C/books_utf8.csv",
+		"/C/Drive/ezLiveSite/driveSites-app/driveSite.sublime-project",
+		"/C/Drive/ezLiveSite/driveSites-app/lib/drive.js",
+		"/C/Drive/ezLiveSite/driveSites-app/data/sites.json",
+		"/C/Drive/ezLiveSite/driveSites-app/readme_jwt.js",
+		"/C/Drive/ezLiveSite/driveSites-app/EzLiveSite-80b5171bb27e.json",
+		"/C/Drive/ezLiveSite/driveSites-app/key.pem",
+		"/C/Drive/Remarketing/site/node_modules/node-mysql/node_modules/mysql/lib/protocol/SqlString.js",
+		"/c/drive/software/sublime3/Data/Packages/Default/Preferences.sublime-settings",
+		"/C/Drive/Remarketing/site/api/chance.js",
+		"/C/Drive/Remarketing/site/api/jquery.js",
+		"/C/Drive/software/xampp/phpMyAdmin/js/jquery/jquery-1.8.3.min.js",
+		"/C/Drive/ThemeForeset/FlatMarket/Dummy Data Import/flatmarket-allcontent-dummydata-TOPMENU.xml",
+		"/C/DaniBook/bookUpload.asp",
+		"/C/Drive/node-server/setref.js",
+		"/C/Drive/node-server/ravpage.js",
+		"/C/Users/Administrator/Downloads/abc/libs/jquery.js",
+		"/C/Drive/ezLiveSite/mockup/_.js",
+		"/C/Drive/ezLiveSite/mockup/jquery.js",
+		"/C/myt/static/lib.js",
+		"/C/myt/Limiter.js",
+		"/C/myt/models/shops/shopsTets.js",
+		"/C/myt/shopify-api.js",
+		"/C/myt/models/shops/shops.js",
+		"/C/myt/models/carts/carts.js",
+		"/C/myt/models/carts/receiver_emails.js",
+		"/C/myt/static/receiver_first_mail.html",
+		"/C/myt/models/carts/receiver_emailsTest.js",
+		"/C/myt/static/cart.js",
+		"/C/myt/email.js",
+		"/C/myt/template.js",
+		"/C/myt/db.js",
+		"/C/myt/models/shops/reinstallWebHooks.js",
+		"/C/myt/static/script_www-projectpomona-com.myshopify.com.js",
+		"/C/myt/v2/views/wizard.html",
+		"/C/myt/static/script.js",
+		"/C/myt/v2/views/client.js",
+		"/C/myt/models/shops/createScript.js",
+		"/C/myt/static/cart.html",
+		"/C/myt/node_modules/request/index.js",
+		"/C/myt/app.js",
+		"/C/myt/createScript.js",
+		"/C/myt/v2/views/main_button.html",
+		"/C/myt/v2/views/host_test.html",
+		"/C/myt/static/script_test1-1145.myshopify.com.js",
+		"/C/myt/v2/views/delivery.html",
+		"/C/myt/v2/views/iframe.css",
+		"/C/myt/static/js/wizard.js",
+		"/C/myt/static/delivery_method.html",
+		"/C/myt/static/mosheMarilus",
+		"/C/myt/v2/product_www-projectpomona-com.myshopify.com.json",
+		"/C/myt/v2/product_test1-1145.myshopify.com.json",
+		"/C/myt/candelete/horizinal_slide.js",
+		"/C/myt/static/horizinal_slide.html",
+		"/C/myt/static/script_test10-65.myshopify.com.js",
+		"/C/Drive/ShukiInvoice/data.tsv",
+		"/C/myt/v2/createScript.js",
+		"/C/drive/software/sublime3/Data/Packages/User/Preferences.sublime-settings",
+		"/C/myt/readme.txt",
+		"/C/myt/auto_tasks.js",
+		"/C/myt/static/iframe.html",
+		"/C/myt/static/js/buy_as_gift.js",
+		"/C/myt/static/js/delivery_method.js",
+		"/C/myt/static/button_iframe.html",
+		"/C/myt/remotelog.js",
+		"/C/myt/remotelog_server.bat",
+		"/C/myt/fb.js",
+		"/C/myt/test2.js",
+		"/C/myt/aUtil.js",
+		"/C/myt/static/buy_as_gift.html",
+		"/C/myt/static/checkout.css",
+		"/C/myt/static/checkout.scss",
+		"/C/myt/static/checkout.mobile.css",
+		"/C/myt/static/iframeLib.js",
+		"/C/myt/static/tests.html",
+		"/C/myt/static/iframe.css",
+		"/C/myt/texts.js",
+		"/C/myt/.gitignore",
+		"/D/ganRuachAviv/index.html",
+		"/D/myt/static/pageScript.js",
+		"/D/myt/app.js",
+		"/D/myt/aUtil.js",
+		"/D/myt/static/remotelog.html",
+		"/D/myt/c1.js",
+		"/D/myt/c2.js",
+		"/D/myt/static/html_after_install.html",
+		"/D/myt/remotelog_server_test.bat",
+		"/D/myt/package.json",
+		"/D/myt/README.me",
+		"/D/myt/wwwGiftWizard.crt",
+		"/D/myt/wwwGiftWizard.key",
+		"/D/myt/remotelog_home.bat",
+		"/D/myt/static/link.html",
+		"/D/myt/.gitignore",
+		"/D/myt/static/js/buy_as_gift.js",
+		"/D/myt/static/cart.html",
+		"/D/myt/static/js/wizard.js",
+		"/D/myt/static/horizinal_slide.html",
+		"/D/myt/static/script_build_test.js",
+		"/D/myt/db.js",
+		"/D/myt/static/js/delivery_method.js",
+		"/D/myt/static/iframe.css",
+		"/D/myt/static/js/spectrum.js",
+		"/D/myt/static/admin.js",
+		"/D/myt/static/admin.html",
+		"/D/myt/static/delivery_method.html",
+		"/D/myt/static/lib.js",
+		"/D/myt/static/button_iframe.html",
+		"/C/Windows/System32/Drivers/etc/hosts",
+		"/D/myt/static/btn5.html",
+		"/D/myt/texts.js"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"c:\\git\\remarketing\\rg",
+			"<open folders>",
+			"D:\\myt",
+			"<open project>",
+			"<open folders>",
+			"<open project>",
+			"<open files>",
+			"<open folders>,<open files>",
+			"<open folders>",
+			"C:\\Users\\u\\AppData\\Roaming\\Sublime Text 2\\Packages",
+			"c:\\Program Files\\Sublime Text 2",
+			"<open folders>",
+			"c:\\Program Files\\Sublime Text 2",
+			"C:\\Users\\u\\AppData\\Roaming\\Sublime Text 2\\Packages",
+			"<open folders>",
+			"C:\\Users\\u\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Extensions\\aabcgdmkeabbnleenpncegpcngjpnjkc",
+			"<open files>",
+			"<open files},<open folders>,D:\\xampp\\htdocs\\www.webpagescreenshot.info",
+			"<open files},<open folders>",
+			"<open files},<open folders>www",
+			"<open files}"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"exec",
+			"data.",
+			"time",
+			"parseInt",
+			"modelValue",
+			"attrs",
+			"test",
+			"modelValue",
+			"shop_url",
+			"promise",
+			"error",
+			"modelValue",
+			"alert",
+			"shopify",
+			"modelValue",
+			"false",
+			"plan",
+			"form",
+			"plan",
+			"time",
+			"data",
+			"name=",
+			"url",
+			"name",
+			"many",
+			"recurring",
+			"'",
+			"name=",
+			"</label>",
+			"col-xs-3",
+			"col",
+			"plan",
+			"PRICE",
+			"price",
+			"m-input",
+			"input",
+			"PRICE",
+			"PLAN",
+			"plan",
+			"PLAN",
+			"referer",
+			"[s",
+			"select ",
+			"(sid",
+			"short",
+			"shorts",
+			"view_short",
+			"s.jss",
+			"close",
+			"bottom",
+			"s-max",
+			"masa",
+			"fadeOut",
+			"slow",
+			"opaci",
+			"font-size",
+			".banner",
+			"message",
+			"span",
+			"div",
+			"message",
+			"amp",
+			"banners",
+			"window.onerr",
+			"onerror",
+			"loadInIframe",
+			"href",
+			"SET",
+			"get_video_embed_from_url",
+			"getvideo__embed_from_url",
+			"get_embed_from_url",
+			"url",
+			"get_video_url_from_id",
+			"get_video_id_from_youtube",
+			"get_video_url_from_youtube",
+			"get_video_id_from_youtube",
+			"argument",
+			"shorts_banner_id",
+			"tagsPerShort",
+			"redirect",
+			"checkred",
+			"buckets_id",
+			"buckets",
+			"buckets_id",
+			"bucket",
+			"b",
+			"$",
+			"analytics",
+			"listen",
+			"127.0.0.",
+			"banner",
+			"buckets_script",
+			"tags",
+			"small",
+			"href",
+			"div",
+			"span",
+			"div",
+			"$banner",
+			"small",
+			"message",
+			"5",
+			"large",
+			"aler",
+			"message:'Just a custom message',",
+			"position:",
+			"splice",
+			"bottom",
+			"top",
+			"large",
+			"small",
+			"size",
+			"$banner",
+			"sizes",
+			"height",
+			"t,",
+			"small",
+			"theBanner",
+			"options",
+			"gw.",
+			"pixel",
+			"tags[0]",
+			"Expires",
+			":",
+			"cache",
+			"chache",
+			"expires",
+			"cache"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"@shop_main",
+			"model.dir",
+			"model",
+			"shop.produ",
+			"shop.dir",
+			"shop.",
+			"this.",
+			"ShopifyRequest",
+			"request",
+			"",
+			"ShopifyRequest",
+			"options.req.shopifyRequest",
+			"ShopifyRequestDelay",
+			"Send as a gift(v2)",
+			"ShopifyRequest",
+			"var",
+			"cart_id",
+			"",
+			"\\",
+			"",
+			"\\'",
+			"\\\\",
+			"\\'",
+			"\\\\",
+			"\\'",
+			"<br>",
+			"\\'",
+			"\\\\n",
+			"\\\\r\\\\n",
+			"_jw_",
+			"_tbView",
+			"\\'",
+			"\\\\",
+			"\\'",
+			"\\\\",
+			"\\'",
+			"\\\\",
+			"\\'",
+			"background.executeIfPermission",
+			"background.executeOnPermission",
+			"",
+			"documentbody()",
+			"debug",
+			"20",
+			"myinclude",
+			"?php echo ",
+			"<?php ",
+			"/",
+			"%%",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": ".README",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 466,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								409,
+								409
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 185,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								183,
+								183
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"incomplete_sync": null,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 396.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 23.0
+	},
+	"output.gjslint_result_view":
+	{
+		"height": 94.0
+	},
+	"output.jslint_result_view":
+	{
+		"height": 94.0
+	},
+	"output.sftp":
+	{
+		"height": 136.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 25.0
+	},
+	"pinned_build_system": "Packages/User/node $file.sublime-build",
+	"project": "node-remote-console.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"s.js",
+				"C:\\git\\remarketing\\rg\\s.jss"
+			],
+			[
+				"bann",
+				"C:\\git\\remarketing\\rg\\banners.js"
+			],
+			[
+				"buck",
+				"c:\\git\\remarketing\\rg\\buckets_script.js"
+			],
+			[
+				"banjs",
+				"C:\\git\\remarketing\\rg\\banners.js"
+			],
+			[
+				"bancs",
+				"C:\\git\\remarketing\\rg\\static\\banners.css"
+			],
+			[
+				"index",
+				"C:\\git\\remarketing\\rg\\index.html"
+			],
+			[
+				"ban_tes",
+				"C:\\git\\remarketing\\rg\\banners_test.html"
+			],
+			[
+				"bacs",
+				"C:\\git\\remarketing\\rg\\static\\banners.css"
+			],
+			[
+				"bajs",
+				"C:\\git\\remarketing\\rg\\banners.js"
+			],
+			[
+				"rgs",
+				"C:\\git\\remarketing\\rg\\rg_script.js"
+			],
+			[
+				"rg",
+				"C:\\git\\remarketing\\rg\\rg.jss"
+			],
+			[
+				"rg_sc",
+				"C:\\git\\remarketing\\rg\\rg_script.js"
+			],
+			[
+				"rg.js",
+				"C:\\git\\remarketing\\rg\\rg.jss"
+			],
+			[
+				"app",
+				"C:\\git\\remarketing\\rg\\app.js"
+			],
+			[
+				"banj",
+				"C:\\git\\remarketing\\rg\\banners.js"
+			],
+			[
+				"test",
+				"C:\\git\\remarketing\\rg\\banners_test.html"
+			],
+			[
+				"ba",
+				"C:\\git\\remarketing\\rg\\banners.js"
+			],
+			[
+				"jqu",
+				"C:\\git\\remarketing\\rg\\jquery.js"
+			],
+			[
+				"",
+				"C:\\git\\remarketing\\rg\\rg_script.js"
+			],
+			[
+				"ban",
+				"C:\\git\\remarketing\\rg\\banners.js"
+			],
+			[
+				"bannerjs",
+				"C:\\git\\remarketing\\rg\\banners.js"
+			],
+			[
+				"ngin",
+				"C:\\Drive\\software\\nginx\\conf\\nginx.conf"
+			],
+			[
+				"nginx",
+				"C:\\Drive\\software\\nginx\\conf\\nginx.conf"
+			],
+			[
+				"rgj",
+				"C:\\git\\remarketing\\rg\\rg.jss"
+			],
+			[
+				"rg_",
+				"C:\\git\\remarketing\\rg\\rg_script.js"
+			],
+			[
+				"buc",
+				"C:\\git\\remarketing\\rg\\buckets_script.js"
+			],
+			[
+				"s.j",
+				"C:\\git\\remarketing\\rg\\s.jss"
+			],
+			[
+				"buckjs",
+				"C:\\git\\remarketing\\rg\\buckets_script.js"
+			],
+			[
+				"rgscr",
+				"C:\\git\\remarketing\\rg\\rg_script.js"
+			],
+			[
+				"rgjss",
+				"C:\\git\\remarketing\\rg\\rg.jss"
+			],
+			[
+				"buc_s",
+				"C:\\git\\remarketing\\rg\\buckets_script.js"
+			],
+			[
+				"rg_s",
+				"C:\\git\\remarketing\\rg\\rg_script.js"
+			],
+			[
+				"rgjs",
+				"C:\\git\\remarketing\\rg\\rg.jss"
+			],
+			[
+				"rg.",
+				"C:\\git\\remarketing\\rg\\rg.jss"
+			],
+			[
+				"bujs",
+				"C:\\git\\remarketing\\rg\\buckets_script.js"
+			],
+			[
+				"rg.j",
+				"C:\\git\\remarketing\\rg\\rg.jss"
+			],
+			[
+				"bucke",
+				"C:\\git\\remarketing\\rg\\buckets_script.js"
+			],
+			[
+				"anal",
+				"C:\\git\\remarketing\\rg\\analytic.js"
+			],
+			[
+				"rg_scr",
+				"C:\\git\\remarketing\\rg\\rg_script.js"
+			],
+			[
+				"rg.jss",
+				"C:\\Drive\\Remarketing\\site\\api\\rg.jss"
+			],
+			[
+				"scr",
+				"create\\script.js"
+			],
+			[
+				"create",
+				"create\\index.html"
+			],
+			[
+				"script",
+				"create\\script.js"
+			],
+			[
+				"scrjs",
+				"create\\script.js"
+			],
+			[
+				"node-ser",
+				"C:\\Drive\\Remarketing\\site\\api\\node-server\\node-server.js"
+			],
+			[
+				"getme",
+				"C:\\Drive\\Remarketing\\site\\api\\getMe.jss"
+			],
+			[
+				"inde",
+				"create\\index.html"
+			],
+			[
+				"getua",
+				"C:\\Drive\\Remarketing\\site\\api\\getUa.jss"
+			],
+			[
+				"getu",
+				"C:\\Drive\\Remarketing\\site\\api\\getUa.jss"
+			],
+			[
+				"select2",
+				"create\\lib\\select2.css"
+			],
+			[
+				"node-se",
+				"C:\\Drive\\Remarketing\\site\\api\\node-server\\node-server.js"
+			],
+			[
+				"oauth",
+				"C:\\Drive\\Remarketing\\site\\api\\oauth.js"
+			],
+			[
+				"oauthred",
+				"C:\\Drive\\Remarketing\\site\\api\\oauth_redirect.jss"
+			],
+			[
+				"redirec",
+				"C:\\Drive\\Remarketing\\site\\api\\oauth_redirect.jss"
+			],
+			[
+				"conn",
+				"C:\\Drive\\Remarketing\\site\\api\\connection.js"
+			],
+			[
+				"node",
+				"C:\\Drive\\Remarketing\\site\\api\\node-server\\node-server.js"
+			],
+			[
+				"oauth.js",
+				"C:\\Drive\\Remarketing\\site\\api\\oauth.js"
+			],
+			[
+				"oa",
+				"C:\\Drive\\Remarketing\\site\\api\\oauth.js"
+			],
+			[
+				"ouah",
+				"C:\\Drive\\Remarketing\\site\\api\\oauth_redirect.jss"
+			],
+			[
+				"connec",
+				"C:\\Drive\\Remarketing\\site\\api\\connection.js"
+			],
+			[
+				".jss",
+				"C:\\Drive\\Remarketing\\site\\api\\oauth_redirect.jss"
+			],
+			[
+				"geme",
+				"C:\\Drive\\Remarketing\\site\\api\\getMe.jss"
+			],
+			[
+				"dash",
+				"C:\\Drive\\Remarketing\\site\\api\\index.html"
+			],
+			[
+				"test.js",
+				"test\\test.js"
+			],
+			[
+				"oaut",
+				"C:\\Drive\\Remarketing\\site\\api\\oauth_redirect.jss"
+			],
+			[
+				"rg.g",
+				"C:\\Drive\\Remarketing\\site\\api\\rg.jss"
+			],
+			[
+				"urlcr",
+				"C:\\Drive\\Remarketing\\site\\api\\urlCreate.jss"
+			],
+			[
+				"man",
+				"manifest.json"
+			],
+			[
+				"b.",
+				"C:\\b.csv"
+			],
+			[
+				"drive.js",
+				"lib\\drive.js"
+			],
+			[
+				"drive",
+				"driveSite.sublime-project"
+			],
+			[
+				"jwt",
+				"readme_jwt.js"
+			],
+			[
+				"ke",
+				"key.pem"
+			],
+			[
+				"ap",
+				"C:\\Drive\\Remarketing\\site\\api\\app.js"
+			],
+			[
+				"book",
+				"bookUpload.asp"
+			],
+			[
+				"adminlogi",
+				"adminLogin.html"
+			],
+			[
+				"dbcon",
+				"dbConnection.asp"
+			],
+			[
+				"adminord",
+				"adminOrders.asp"
+			],
+			[
+				"item",
+				"item.asp"
+			],
+			[
+				"text",
+				"texts.js"
+			],
+			[
+				"limiter",
+				"LimiterTest.js"
+			],
+			[
+				"helper",
+				"v2\\views\\client\\helper.js"
+			],
+			[
+				"lib",
+				"v2\\views\\client\\lib.js"
+			],
+			[
+				"addmain",
+				"v2\\views\\client\\addMainButton.js"
+			],
+			[
+				"shops",
+				"models\\shops\\shops.js"
+			],
+			[
+				"mainbut",
+				"v2\\views\\client\\addMainButton.js"
+			],
+			[
+				"createte",
+				"models\\shops\\createScript_test.js"
+			],
+			[
+				"hover",
+				"v2\\views\\client\\hover.js"
+			],
+			[
+				"addmin",
+				"v2\\views\\client\\addMainButton.js"
+			],
+			[
+				"main",
+				"v2\\views\\main_button.html"
+			],
+			[
+				"cretescr",
+				"models\\shops\\createScript.js"
+			],
+			[
+				"addbut",
+				"v2\\views\\client\\addMainButton.js"
+			],
+			[
+				"createscr",
+				"models\\shops\\createScript.js"
+			],
+			[
+				"client",
+				"v2\\views\\client\\client.js"
+			],
+			[
+				"createc",
+				"models\\shops\\createScript.js"
+			],
+			[
+				"createst",
+				"models\\shops\\createScript_test.js"
+			],
+			[
+				"hostte",
+				"v2\\views\\host_test.html"
+			],
+			[
+				"createtest",
+				"models\\shops\\createScript_test.js"
+			],
+			[
+				"addmi",
+				"v2\\views\\client\\addMainButton.js"
+			],
+			[
+				"iframe",
+				"v2\\views\\iframe.css"
+			],
+			[
+				"hoste",
+				"v2\\views\\host_test.html"
+			],
+			[
+				"mian",
+				"v2\\views\\main_button.html"
+			],
+			[
+				"cretest",
+				"models\\shops\\createScript_test.js"
+			],
+			[
+				"createsc",
+				"models\\shops\\createScript.js"
+			],
+			[
+				"lib.js",
+				"static\\lib.js"
+			],
+			[
+				"wizard.html",
+				"v2\\views\\wizard.html"
+			],
+			[
+				"cart",
+				"models\\carts\\carts.js"
+			],
+			[
+				"db",
+				"db.js"
+			],
+			[
+				"recei",
+				"static\\receiver_first_mail.html"
+			],
+			[
+				"reci",
+				"models\\carts\\receiver_emails.js"
+			],
+			[
+				"receiv",
+				"static\\receiver_first_mail.html"
+			],
+			[
+				"receemate",
+				"models\\carts\\receiver_emailsTest.js"
+			],
+			[
+				"cartjs",
+				"models\\carts\\carts.js"
+			],
+			[
+				"cart.js",
+				"static\\cart.js"
+			],
+			[
+				"recete",
+				"models\\carts\\receiver_emailsTest.js"
+			],
+			[
+				"carts",
+				"models\\carts\\carts.js"
+			],
+			[
+				"receive",
+				"models\\carts\\receiver_emails.js"
+			],
+			[
+				"template",
+				"template.js"
+			],
+			[
+				"email",
+				"email.js"
+			],
+			[
+				"shopapi",
+				"shopify-api.js"
+			],
+			[
+				"rein",
+				"models\\shops\\reinstallWebHooks.js"
+			],
+			[
+				"db.",
+				"db.js"
+			],
+			[
+				"shops.js",
+				"models\\shops\\shops.js"
+			],
+			[
+				"shopap",
+				"shopify-api.js"
+			],
+			[
+				"shopif",
+				"shopify-api.js"
+			],
+			[
+				"crete",
+				"models\\shops\\createScript.js"
+			],
+			[
+				"shopifyapi",
+				"shopify-api.js"
+			],
+			[
+				"shopfy",
+				"shopify-api.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"myt",
+				"C:\\git\\myt\\myt.sublime-project"
+			],
+			[
+				"exte",
+				"/C/Users/User1/AppData/Roaming/Sublime Text 2/projects/project1.sublime-project"
+			],
+			[
+				"ext",
+				"/D/sublimeProjects/webpageScreenshotExtensions.sublime-project"
+			],
+			[
+				"web",
+				"/D/sublimeProjects/webpageScreenshot.sublime-project"
+			],
+			[
+				"we",
+				"/D/sublimeProjects/webpageScreenshot.sublime-project"
+			],
+			[
+				"ex",
+				"/D/sublimeProjects/webpageScreenshotExtensions.sublime-project"
+			],
+			[
+				"webp",
+				"/D/sublimeProjects/webpageScreenshot.sublime-project"
+			],
+			[
+				"dani",
+				"/D/sublimeProjects/danny.sublime-project"
+			],
+			[
+				"apa",
+				"/D/sublimeProjects/apache.sublime-project"
+			],
+			[
+				"",
+				"/D/sublimeProjects/bechinamAsp.sublime-project"
+			],
+			[
+				"b",
+				"/D/sublimeProjects/bechinam.sublime-project"
+			],
+			[
+				"wep",
+				"/D/sublimeProjects/webpageScreenshot.sublime-project"
+			],
+			[
+				"bey",
+				"/D/sublimeProjects/beynish.sublime-project"
+			],
+			[
+				"ap",
+				"/D/sublimeProjects/apache.sublime-project"
+			],
+			[
+				"plugin",
+				"/D/sublimeProjects/pluginDev.sublime-project"
+			],
+			[
+				"apach",
+				"/D/sublimeProjects/apache.sublime-project"
+			],
+			[
+				"wed",
+				"/D/sublimeProjects/weddings.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 378.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

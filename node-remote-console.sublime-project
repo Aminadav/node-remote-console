@@ -1,0 +1,23 @@
+{
+	"folders":
+	[
+		{
+			"path": "."
+		}
+	],
+	"build_systems":[{
+		"name":"node-remote-console",
+
+		"variants":[
+		{
+			"name":"test server",
+			"shell_cmd":"node app.js --server 12345 cmd /k c:\\"
+		},
+		{
+			"name":"test client",
+			"shell_cmd":"node app.js --client 127.0.0.1 12345"			
+		}
+		]			
+
+	}]
+}
