@@ -22,19 +22,85 @@
 8 verbose parsed url   href: '.' }
 9 silly lockFile 3a52ce78- .
 10 verbose lock . C:\Users\Administrator\AppData\Roaming\npm-cache\3a52ce78-.lock
-11 silly lockFile 3a52ce78- .
-12 silly lockFile 3a52ce78- .
-13 error addLocal Could not install .
-14 error Error: ENOENT, open 'C:\git\node-remote-console\package.json'
-15 error If you need help, you may report this *entire* log,
-15 error including the npm and node versions, at:
-15 error     <http://github.com/npm/npm/issues>
-16 error System Windows_NT 6.2.9200
-17 error command "C:\\Program Files (x86)\\nodejs\\\\node.exe" "C:\\Program Files (x86)\\nodejs\\node_modules\\npm\\bin\\npm-cli.js" "publish"
-18 error cwd C:\git\node-remote-console
-19 error node -v v0.10.33
-20 error npm -v 1.4.28
-21 error path C:\git\node-remote-console\package.json
-22 error code ENOENT
-23 error errno 34
-24 verbose exit [ 34, true ]
+11 verbose tar pack [ 'C:\\Users\\Administrator\\AppData\\Roaming\\npm-cache\\node-remote-console\\1.3.2\\package.tgz',
+11 verbose tar pack   '.' ]
+12 verbose tarball C:\Users\Administrator\AppData\Roaming\npm-cache\node-remote-console\1.3.2\package.tgz
+13 verbose folder .
+14 info prepublish node-remote-console@1.3.2
+15 silly lockFile 1f1177db-tar tar://.
+16 verbose lock tar://. C:\Users\Administrator\AppData\Roaming\npm-cache\1f1177db-tar.lock
+17 silly lockFile 3f34fd29-remote-console-1-3-2-package-tgz tar://C:\Users\Administrator\AppData\Roaming\npm-cache\node-remote-console\1.3.2\package.tgz
+18 verbose lock tar://C:\Users\Administrator\AppData\Roaming\npm-cache\node-remote-console\1.3.2\package.tgz C:\Users\Administrator\AppData\Roaming\npm-cache\3f34fd29-remote-console-1-3-2-package-tgz.lock
+19 silly lockFile 1f1177db-tar tar://.
+20 silly lockFile 1f1177db-tar tar://.
+21 silly lockFile 3f34fd29-remote-console-1-3-2-package-tgz tar://C:\Users\Administrator\AppData\Roaming\npm-cache\node-remote-console\1.3.2\package.tgz
+22 silly lockFile 3f34fd29-remote-console-1-3-2-package-tgz tar://C:\Users\Administrator\AppData\Roaming\npm-cache\node-remote-console\1.3.2\package.tgz
+23 silly lockFile 773db5f0-ode-remote-console-1-3-2-package C:\Users\Administrator\AppData\Roaming\npm-cache\node-remote-console\1.3.2\package
+24 verbose lock C:\Users\Administrator\AppData\Roaming\npm-cache\node-remote-console\1.3.2\package C:\Users\Administrator\AppData\Roaming\npm-cache\773db5f0-ode-remote-console-1-3-2-package.lock
+25 silly lockFile 773db5f0-ode-remote-console-1-3-2-package C:\Users\Administrator\AppData\Roaming\npm-cache\node-remote-console\1.3.2\package
+26 silly lockFile 773db5f0-ode-remote-console-1-3-2-package C:\Users\Administrator\AppData\Roaming\npm-cache\node-remote-console\1.3.2\package
+27 silly lockFile 3a52ce78- .
+28 silly lockFile 3a52ce78- .
+29 silly publish { name: 'node-remote-console',
+29 silly publish   version: '1.3.2',
+29 silly publish   description: '',
+29 silly publish   main: 'app.js',
+29 silly publish   dependencies: { keypress: '^0.2.1' },
+29 silly publish   devDependencies: {},
+29 silly publish   scripts: { test: 'echo "Error: no test specified" && exit 1' },
+29 silly publish   bin: { 'remote-console': 'cli.js' },
+29 silly publish   repository:
+29 silly publish    { type: 'git',
+29 silly publish      url: 'https://github.com/AminaG/node-remote-console.git' },
+29 silly publish   author: '',
+29 silly publish   license: 'ISC',
+29 silly publish   bugs: { url: 'https://github.com/AminaG/node-remote-console/issues' },
+29 silly publish   homepage: 'https://github.com/AminaG/node-remote-console',
+29 silly publish   preferGlobal: 'true',
+29 silly publish   gitHead: '77d915b8953be9d6341585d8a3c241d5a667f64b',
+29 silly publish   readme: 'ERROR: No README data found!',
+29 silly publish   _id: 'node-remote-console@1.3.2',
+29 silly publish   _shasum: '20a70d121f7f0b54b8e703036b23a0fb899587fb',
+29 silly publish   _from: '.' }
+30 verbose request where is /node-remote-console
+31 verbose request registry https://registry.npmjs.org/
+32 verbose request id 131466848236f677
+33 verbose url raw /node-remote-console
+34 verbose url resolving [ 'https://registry.npmjs.org/', './node-remote-console' ]
+35 verbose url resolved https://registry.npmjs.org/node-remote-console
+36 verbose request where is https://registry.npmjs.org/node-remote-console
+37 info trying registry request attempt 1 at 02:36:54
+38 http PUT https://registry.npmjs.org/node-remote-console
+39 http 403 https://registry.npmjs.org/node-remote-console
+40 verbose headers { 'content-type': 'application/json',
+40 verbose headers   'cache-control': 'max-age=60',
+40 verbose headers   'content-length': '95',
+40 verbose headers   'accept-ranges': 'bytes',
+40 verbose headers   date: 'Sun, 08 Nov 2015 00:36:56 GMT',
+40 verbose headers   via: '1.1 varnish',
+40 verbose headers   connection: 'keep-alive',
+40 verbose headers   'x-served-by': 'cache-lhr6322-LHR',
+40 verbose headers   'x-cache': 'MISS',
+40 verbose headers   'x-cache-hits': '0',
+40 verbose headers   'x-timer': 'S1446943014.845422,VS0,VE1468' }
+41 error publish Failed PUT 403
+42 error Error: "You cannot publish over the previously published version 1.3.2." : node-remote-console
+42 error     at RegClient.<anonymous> (C:\Program Files (x86)\nodejs\node_modules\npm\node_modules\npm-registry-client\lib\request.js:308:14)
+42 error     at Request._callback (C:\Program Files (x86)\nodejs\node_modules\npm\node_modules\npm-registry-client\lib\request.js:246:65)
+42 error     at Request.self.callback (C:\Program Files (x86)\nodejs\node_modules\npm\node_modules\request\request.js:236:22)
+42 error     at Request.emit (events.js:98:17)
+42 error     at Request.<anonymous> (C:\Program Files (x86)\nodejs\node_modules\npm\node_modules\request\request.js:1142:14)
+42 error     at Request.emit (events.js:117:20)
+42 error     at IncomingMessage.<anonymous> (C:\Program Files (x86)\nodejs\node_modules\npm\node_modules\request\request.js:1096:12)
+42 error     at IncomingMessage.emit (events.js:117:20)
+42 error     at _stream_readable.js:943:16
+42 error     at process._tickCallback (node.js:419:13)
+43 error If you need help, you may report this *entire* log,
+43 error including the npm and node versions, at:
+43 error     <http://github.com/npm/npm/issues>
+44 error System Windows_NT 6.2.9200
+45 error command "C:\\Program Files (x86)\\nodejs\\\\node.exe" "C:\\Program Files (x86)\\nodejs\\node_modules\\npm\\bin\\npm-cli.js" "publish"
+46 error cwd C:\git\node-remote-console
+47 error node -v v0.10.33
+48 error npm -v 1.4.28
+49 verbose exit [ 1, true ]

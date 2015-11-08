@@ -10,15 +10,15 @@ install by using:
 Use:
 
 On the server:
-	node-remote-console --listen port command
+	remote-console --server port command
 
 On the client:
-	node-remote-console --connect ip port
+	remote-console --client ip port
 
 for example:
 
-	node-remote-console --listen 127.0.0.1 123
-	node-remote-console --connect 127.0.0.1 123 cmd.exe
+	remote-console --server 127.0.0.1 123 cmd.exe
+	remote-console --client 127.0.0.1 123
 
 
 
